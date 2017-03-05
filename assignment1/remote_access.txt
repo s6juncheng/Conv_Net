@@ -1,0 +1,4 @@
+1. Configure .ssh/config file
+2. Open jupyter notebook on ouga01
+3. ssh -N -f -L localhost:8080:localhost:9999 ouga01
+http://lucasb.eyer.be/articles/two-ssh.html
